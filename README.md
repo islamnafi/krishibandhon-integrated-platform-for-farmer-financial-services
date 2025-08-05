@@ -1,6 +1,6 @@
 ## Overview
 
-**Krishibandhon** is a Django-based web application designed to serve as an integrated platform for managing financial and advisory services tailored for farmers. It connects farmers with service providers such as grant agencies, insurance companies, loan providers, investors, and advisors—helping them access financial aid, crop-related guidance, and investment opportunities.
+**Krishibandhon** is a Django-based web application designed to serve as an integrated platform for managing financial and advisory services tailored for farmers. It connects farmers with service providers such as grant agencies, insurance companies, loan providers, investors, and advisors to help them access financial aid, crop-related guidance, and investment opportunities.
 
 ---
 
