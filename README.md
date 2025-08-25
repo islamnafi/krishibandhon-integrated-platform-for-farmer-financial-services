@@ -1,6 +1,5 @@
 **Krishibandhon** is a Django-based web application designed to serve as an integrated platform for managing financial and advisory services tailored for farmers. It connects farmers with service providers such as grant agencies, insurance companies, loan providers, investors, and advisors to help them access financial aid, crop-related guidance, and investment opportunities.
 
----
 
 ## Features
 
@@ -19,8 +18,7 @@
   - Register advisors and define their expertise
 - **Feedback System**
   - Collect ratings and comments from users
-
----
+ 
 
 ## Tech Stack
 
@@ -29,7 +27,6 @@
 - **Frontend:** Django Templates (HTML, CSS, Bootstrap)
 - **ORM:** Django Models (with existing unmanaged DB schema)
 
----
 
 ## Modules
 
@@ -42,7 +39,6 @@
 - `Advisor`, `AdvisorExpertise`: Advisory data and domain knowledge
 - `FeedbackT`: Collects feedback from users
 
----
 
 ## Setup Instructions
 
@@ -70,14 +66,12 @@
    python manage.py runserver
    ```
 
----
 
 ## Notes
 
 - The project uses `managed = False` in Django models, which means the database schema already exists and Django won't attempt to create or modify the tables.
 - Make sure your database schema matches the defined models.
 
----
 
 ## Future Enhancements
 
